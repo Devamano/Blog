@@ -25,7 +25,7 @@ st.write("""   It was one of the global investment bank offering wide range of f
             into commodities trading and brokerage services and grew into an international power house. Here's a 
             time line depicting it's growth """)
 
-image1_path1 = r"C:\Users\muvee\Documents\Text\blog\Picture 2.jpg"
+image1_path1 = r"blog/Picture 2.jpg"
 image1 = Image.open(image1_path1)
 st.image(image1, caption="Image 1: A Brief History of Lehman Brothers Fig:1.1" )
 
@@ -36,7 +36,7 @@ st.write("""While Lehman Brothers' net worth fluctuated significantly over its h
             trended upward throughout its existence, with some notable periods of growth and decline. It can be 
             depicted as below.""")
 # Insert the second image
-image1_path2 = r"C:\Users\muvee\Documents\Text\blog\Picture1.jpg"
+image1_path2 = r"blog/Picture1.jpg"
 image2 = Image.open(image1_path2)
 st.image(image2, caption="Image 2: Lehmen Brothers Net worth over years Fig 1.2", use_column_width=True)
 

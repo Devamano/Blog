@@ -62,6 +62,15 @@ st.write("""     The early 2000s witnessed the rise of the subprime mortgage mar
               The collapse of the housing market led to widespread foreclosures and job losses, while the global 
               economy plunged into a deep recession.
               """)
+st.header(" What are the lessons we could learn ?")
+st.write("""  The demise of Lehman brothers is a remainder of sound financial regulation. Governments around the 
+              world have implemented regulations to prevent another such catastrophe. 
+              Some of the regulations include a stricter capital requirement, an eye on the markets, investor protection 
+              and many more
+              The case also reminded the need of transparency in the financial system. Companies should.be required to 
+              disclose their risk in a clear and concise manner that would enable the investors to take informed 
+              decisions about their investment.
+""")
 st.header(" Conclusion")
 st.write("""     The story of Lehman brothers serves as a remainder for the risks inherent in excessive risk taking and 
             mismanaged financial strategies. It is a cautionary tale that provides insights and prompting reassurance 
